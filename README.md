@@ -23,6 +23,19 @@ cargo build
 cargo run
 ```
 
+## VSCode Setup
+
+<https://code.visualstudio.com/docs/languages/rust>
+
+Linting,
+<https://github.com/rust-lang/rust-clippy>
+
+```bat
+rustup update
+rustup component add clippy
+
+```
+
 ## Documentation
 
 <https://rust-lang.github.io/rustup/index.html>
